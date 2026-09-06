@@ -14,6 +14,7 @@ The application simulates the workflow of a Driving & Vehicle License Department
 
 The project follows a **3-Tier Architecture** to separate the user interface, business logic, and data access responsibilities.
 
+[▶️ Watch Demo]([YOUR_ONEDRIVE_LINK](https://drive.google.com/file/d/1rNmwosf03ZIDglHpgOunsu5RDTxE3wL5/view?usp=drive_link))
 ---
 
 ## ✨ Features
@@ -246,25 +247,11 @@ After successfully building the project, run the application from Visual Studio.
 
 ---
 
-## 📸 Screenshots
+## 🎥 Demo
 
-Screenshots of the application's main screens and features can be added here.
+Click below to watch a 2-minute demonstration of the DVLD application.
 
-### Main Dashboard
-
-*Add screenshot here.*
-
-### People Management
-
-*Add screenshot here.*
-
-### License Management
-
-*Add screenshot here.*
-
-### Test Management
-
-*Add screenshot here.*
+[▶️ Watch Demo]([YOUR_ONEDRIVE_LINK](https://drive.google.com/file/d/1rNmwosf03ZIDglHpgOunsu5RDTxE3wL5/view?usp=drive_link))
 
 ---
 
