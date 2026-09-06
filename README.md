@@ -251,7 +251,7 @@ After successfully building the project, run the application from Visual Studio.
 
 Click below to watch a 2-minute demonstration of the DVLD application.
 
-[▶️ Watch Demo]([YOUR_ONEDRIVE_LINK](https://drive.google.com/file/d/1rNmwosf03ZIDglHpgOunsu5RDTxE3wL5/view?usp=drive_link))
+[▶️ Watch Demo] (https://drive.google.com/file/d/1UUsjjMb0nuKjlHj7hNGT3zL7M9aYsQc0/view?usp=drive_link)
 
 ---
 
