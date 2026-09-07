@@ -178,6 +178,7 @@
             this.releaseToolStripMenuItem.Name = "releaseToolStripMenuItem";
             this.releaseToolStripMenuItem.Size = new System.Drawing.Size(384, 26);
             this.releaseToolStripMenuItem.Text = "Release Detained Driving License";
+            this.releaseToolStripMenuItem.Click += new System.EventHandler(this.releaseToolStripMenuItem_Click);
             // 
             // retakeTestToolStripMenuItem
             // 

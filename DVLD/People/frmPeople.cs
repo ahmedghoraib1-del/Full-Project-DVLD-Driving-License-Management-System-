@@ -336,7 +336,10 @@ namespace DVLD.People
                 if (clsPerson.DeletePerson((int)dgvPeople.CurrentRow.Cells[0].Value))
                 {
                     MessageBox.Show("Person Deleted Successfully.", "Successful", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    File.Delete(_Person.ImagePath);
+                    if (File.Exists(_Person.ImagePath))
+                    {
+                        File.Delete(_Person.ImagePath);
+                    }
                     _RefreshPeoplList();
                 }
 
